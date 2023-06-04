@@ -8,8 +8,8 @@ Usage
 
 ## In App Screenshots
 <p align="center">
-<img src="https://github.com/WorkWithAfridi/IP_Country_Lookup-Package/blob/master/example/assets/promotional_images/img1.png" width="360" height="665">
-<img src="https://github.com/WorkWithAfridi/IP_Country_Lookup-Package/blob/master/example/assets/promotional_images/img2.png" width="360" height="665">
+<img src="https://github.com/WorkWithAfridi/IP_Country_Lookup-Package/blob/master/example/assets/promotional_images/img1.png" width="340" height="665">
+<img src="https://github.com/WorkWithAfridi/IP_Country_Lookup-Package/blob/master/example/assets/promotional_images/img2.png" width="340" height="665">
 </p>
 
 ## Getting started
