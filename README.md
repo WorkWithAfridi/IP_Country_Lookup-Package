@@ -4,7 +4,6 @@ A Flutter package for retrieving country information based on a user's public IP
 ## Features
 Get the user's public IP address.
 Retrieve country information such as country code, country name, and ISP (Internet Service Provider).
-Usage
 
 ## In App Screenshots
 <p align="center">
