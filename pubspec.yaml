@@ -1,7 +1,7 @@
 name: ip_country_lookup
 description: A new Flutter project.
 version: 1.0.0
-homepage:
+homepage: https://github.com/WorkWithAfridi/IP_Country_Lookup-Package.git
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
