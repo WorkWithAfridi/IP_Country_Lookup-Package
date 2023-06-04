@@ -1,5 +1,5 @@
 name: ip_country_lookup
-description: A new Flutter project.
+description: A Flutter package for retrieving country information based on a user's public IP address.
 version: 1.0.0
 homepage: https://github.com/WorkWithAfridi/IP_Country_Lookup-Package.git
 
