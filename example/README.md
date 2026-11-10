@@ -1,16 +1,15 @@
-# example
+# IP Country Lookup example
 
-A new Flutter project.
+Run the example on a connected Flutter device:
 
-## Getting Started
+```sh
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+Tap **Get country data from IP** to exercise public-IP discovery and the
+country/ISP provider fallback chain. The example's main Android manifest
+already includes the Internet permission required by release builds.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Provider requests disclose the connection's public IP as described in the
+package's main README. No GPS or device-location permission is used.
